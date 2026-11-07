@@ -1,0 +1,5 @@
+site_name: Tekken 3 Guide
+site_description: Tekken 3 options and difficulty explained plainly — difficulty, rounds, Guard Damage, Practice mode settings and two recommended setups.
+site_url: https://tekken3-guide.readthedocs.io/en/latest/
+theme:
+  name: readthedocs
